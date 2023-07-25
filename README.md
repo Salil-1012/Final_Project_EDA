@@ -47,4 +47,4 @@ more defaults.
 
 
 ## Contact
-Created by [Salil-1012] - feel free to contact me!
+Created by [Salil chandan] - feel free to contact me!
