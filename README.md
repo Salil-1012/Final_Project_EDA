@@ -9,7 +9,7 @@ If the applicant is not likely to repay the loan, i.e. he/she is likely to defau
 
 ## Table of Contents
 * [General Info](#general-information) 
-* [Technologies Used]    
+* [Technologies Used](#Technologies-Used)  
 * [Conclusions] 
 
 
