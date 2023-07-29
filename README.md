@@ -25,11 +25,9 @@ If the applicant is not likely to repay the loan, i.e. he/she is likely to defau
 character of a consumer. Found that the Grade between C and G has more defaults. 
  
 -Debt-to-Income(dti) and Revolving Utilization(revol_util) can used to measure the capacity of a consumer 
-like how much credit is being used compared with how much credit is available. 
-Found that the DTI > 15 and Revol_Util > 50% has more number of defaults. 
+like how much credit is being used compared with how much credit is available.  
  
--Open_acc and Home_Ownership can be used to determine the collateral of a consumer which can be used 
-as security for repayment of a loan. Found that the Open_acc < 5 and Home_Ownership as RENT has 
+-Open_acc and Home_Ownership  Found that the Open_acc < 5 and Home_Ownership as RENT has 
 more defaults.
 
 
