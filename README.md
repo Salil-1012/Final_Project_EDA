@@ -31,10 +31,13 @@
 > Slightly Higher the loan amount for a higher the annual income .
 > Yearly, there is an increase in number of charged off.
 > With increase in loan amount there is an increase in intrest rate
-
 > Higher is the charged off ratio for higher intrest rate.
 > Higher the annual income higher the loan amount slightly
 > Intrest rate is increasing with loan amount & in increases is there in high charged off
+> 1. With increase in loan amount there is an increase in intrest rate
+2. Intrest rate is increasing with loan amount & in increases is there in high charged off.
+3. Higher the annual income higher the loan amount, provided interest rate is more.
+4. Higher intrest rate results in high Charged Off ratio yet numbers of defaulters.
 
 
 
